@@ -1,0 +1,124 @@
+<template>
+
+  <scroll>
+    <ul>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+      <li>45646</li>
+    </ul>
+  </scroll>
+</template>
+
+<script>
+import Scroll from "components/common/scroll/Scroll";
+  export default {
+    name: "Profile",
+    components:{
+      Scroll
+    }
+  }
+</script>
+
+<style scoped>
+.scroll-wrapper{
+  height: 200px;
+  background-color: red;
+}
+</style>

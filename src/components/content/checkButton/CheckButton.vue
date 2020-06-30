@@ -1,0 +1,34 @@
+<template>
+  <div class="check-button" :class="{checked:isChecked}"> 
+    <img src="~assets/img/cart/tick.svg" alt="">
+  </div>
+</template>
+<script>
+export default {
+  name:'CheckButton',
+  props:{
+    
+      isChecked:{
+       type:Boolean,
+       default: false
+
+  }
+  }
+}
+</script>
+<style>
+.check-button{
+  border-radius: 50%;
+  border: 1px solid #aaa;
+  width: 20px;
+  height: 20px;
+}
+.check-button img{
+  width: 20px;
+  vertical-align: top;
+}
+.checked{
+  border: none;
+  background-color:var( --color-tint);
+}
+</style>
